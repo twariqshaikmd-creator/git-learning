@@ -1,4 +1,4 @@
 # git-learning
 This is my first repository.
 <br> 
-Author: S.MD.TWariq.
+Author: S.MD.Twariq.
